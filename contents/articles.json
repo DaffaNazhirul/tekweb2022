@@ -1,0 +1,29 @@
+[
+    {
+	"num": "1",
+        "title":"PMR MAN 2 Mataram.",
+        "description":"PMR MAN 2 Mataram adalah salah satu PMR terbaik di NTB.",
+        "thumbnail": "https://github.com/DaffaNazhirul/Tugastekweb2022/blob/main/PMR.jpeg",
+        "author": "M. Daffa N.H.",
+        "published_at": "30 April 2022",
+	"content": "article_1.md"
+    },
+	{
+	"num": "2",
+        "title":"Esport di Indonesia",
+        "description":"Perkembangan Esport di Indonesia",
+        "thumbnail": "https://github.com/DaffaNazhirul/Tugastekweb2022/blob/main/Esport.jpg",
+        "author": "M. Daffa N.H.",
+        "published_at": "18 Mei 2022",
+	"content": "article_2.md"
+    },
+	{
+	"num": "3",
+        "title":"Hiking",
+        "description":"Alasan Hiking Banyak di Gemari",
+        "thumbnail": "https://github.com/DaffaNazhirul/Tugastekweb2022/blob/main/Hiking.JPG",
+        "author": "M. Daffa N.H.",
+        "published_at": "30 April 2022",
+	"content": "article_3.md"
+    }
+]

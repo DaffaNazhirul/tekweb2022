@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+nav {
+  height: 80px;
+  background-color: rgb(57, 206, 37);
+  border-bottom: 1px solid#3b3838;
+}
+
+nav .logo {
+  color: #0b0f0d;
+  line-height: 80px;
+  font-size: 35px;
+  padding: 0 50px;
+  font-weight: bold;
+}
+
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+  border-radius: 3px;
+}
+nav ul li a {
+  margin-right: 20px;
+  font-weight: lighter;
+  font-size: 19px;
+  color: #3b3838;
+  padding: none;
+}
+.a.active,
+a:hover {
+  color: aliceblue;
+  border: none;
+}
+.cover {
+  position: relative;
+  background-position: center;
+  background-size: auto;
+  height: auto;
+}
+
+.cover .masking {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  top: 0;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+.cover .masking1 {
+  height: 700px;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  opacity: 0.28;
+  z-index: 0;
+  background: linear-gradient(45deg, #0d4214, #226655, #42a061, #518620, #498824, #28b923, #54c71f);
+  background-size: 4px;
+}
+
+.masking2 {
+  background: url(./images/background1.jpg);
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.cover .social a {
+  color: white;
+}
+
+.cover img {
+  width: 260px;
+}
+
+.cover .social a {
+  color: #ffffff;
+}
+
+h1 {
+  color: #000000;
+  font-size: 50px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+}
+
+.row p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  position: relative;
+}
+
+.jarak {
+  padding: 7px 20px;
+  color: #3b3838;
+}
+
+.bg-primary {
+  background-color: rgb(156, 138, 114) !important;
+}
+
+.bg-primary:focus,
+.bg-primary:hover {
+  background-color: rgb(145, 112, 70) !important;
+}
+
+.bg-secondary {
+  background-color: rgb(172, 153, 129) !important;
+}
+
+.bg-secondary:focus,
+.bg-secondary:hover {
+  background-color: rgb(145, 112, 70) !important;
+}
+
+.bg-danger {
+  background-color: rgb(196, 173, 143) !important;
+}
+
+.bg-danger:focus,
+.bg-danger:hover {
+  background-color: rgb(145, 112, 70) !important;
+}
+
+.btn a {
+  background-color: rgb(145, 112, 70);
+  color: aliceblue;
+}
+
+.container h2 {
+  color: #3b3838;
+}
+
+.card-body h5 {
+  color: #3b3838;
+}
+
+.card-body p {
+  color: rgb(145, 112, 70);
+  font-size: 15px;
+}
+
+.card-body a {
+  background-color: rgb(145, 112, 70);
+  color: aliceblue;
+}

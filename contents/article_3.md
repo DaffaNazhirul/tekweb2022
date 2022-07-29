@@ -1,0 +1,5 @@
+## Kegiatan Hiking Gunung ##
+_M. Daffa N.H._
+
+<hr>
+Hiking umumnya merujuk pada perjalanan panjang dan penuh semangat yang biasanya melewati jalan kecil di area pedalaman. kegiatan pendakian adalah upaya penaklukan diri sendiri dari kalangan leisure class (kelas masyarakat yang memiliki kelebihan) untuk menikmati hidup dengan cara mendekat kepada alam. Namun, di zaman seperti sekarang, bukan hanya leisure class yang menikmati alam dengan cara mendaki, tetapi juga datang dari berbagai kalangan dengan beragam tujuan. Walaupun pendakian gunung seringkali memakan korban jiwa, tetapi tidak menurunkan hasrat para pemuda khususnya untuk menaklukan puncak-puncak gunung. Pengalaman mendaki gunung maupun melihat dari berbagai media terkait kegiatan pendakian, menjadi daya tarik tersendiri bagi pegiat kegiatan alam, seperti mountaineering (kegiatan yang berkaitan dengan gunung).
